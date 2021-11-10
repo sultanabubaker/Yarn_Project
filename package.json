@@ -1,0 +1,14 @@
+{
+  "name": "Yarn_Project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sultan Abu Baker",
+  "license": "MIT",
+  "dependencies": {
+    "depcheck": "0.6.7",
+    "graphlib": "2.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
